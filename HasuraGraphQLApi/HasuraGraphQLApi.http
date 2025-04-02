@@ -1,0 +1,6 @@
+@HasuraGraphQLApi_HostAddress = http://localhost:5234
+
+GET {{HasuraGraphQLApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
